@@ -6,7 +6,7 @@ env:
   CONTAINER_NAME: "hello-world"
   RESOURCE_GROUP: "cicd-demo"
   CLUSTER_NAME: "mel-cicd-ak2"
-  DEPLOYMENT_MANIFEST_PATH: "Kubernetes"
+  DEPLOYMENT_MANIFEST_PATH: "kubernetes"
 
 # Retrive below secrets from GitHub Actions Secrets
 #  AZURE_TENANT_ID: "secrets"
